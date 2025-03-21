@@ -1,0 +1,1 @@
+The project is a well-structured HTML5 webpage using semantic elements and also includes the implementation of HTML5 forms with built-in validation
